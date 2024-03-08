@@ -1,0 +1,23 @@
+/**
+Project background:
+This project was created in 20/21 when I was 17/18. 
+This game is all about a in-LAN 2-player Tetris game.
+Using python, sockets, pygames to run.
+
+Requirements:
+-Python Interpreter
+-Pygame module
+-Socket module
+
+Gameplay:
+There are 4 different modes to choose from.
+1. Single player mode, keep playing until gameover and you will get a score for your performance.
+2. Single player mode, perform your best within a given time limit.
+2. 2-Player mode, play against each other, first to 300 points wins
+3. 2-Player mode, play against each other, the player with the highest point scored within a time limit wins.
+
+How to play?
+[Single player]
+Click on the Single player button in the interface and choose one of the two single player game modes.
+[Multiplayer]
+Requires another machine/local machine but parallel runs two of this program at the same time
